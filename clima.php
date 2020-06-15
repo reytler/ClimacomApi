@@ -24,9 +24,9 @@ function buildAuthorizationHeader($oauth) {
 }
 
 $url = 'https://weather-ydn-yql.media.yahoo.com/forecastrss';
-$app_id = 'ql5ClA7a';
-$consumer_key = 'dj0yJmk9STNsVVBmZkU4TXFqJmQ9WVdrOWNXdzFRMnhCTjJFbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PWEz';
-$consumer_secret = '5c0739603dc9e27ac264eb2633d2d1dc8f0976ba';
+$app_id = 'Sua ID';
+$consumer_key = 'Sua Consumer KEY';
+$consumer_secret = 'Sua Consumer Secret';
 
 $query = array(
     'location' => $cidade,
